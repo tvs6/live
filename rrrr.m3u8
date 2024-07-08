@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:10
+
+#EXTINF:9.009,
+http://filex.tv:8080/live/Diamond@pk@321/4193525345453/250199.ts
+#EXTINF:6.009,
+http://filex.tv:8080/live/Diamond@pk@321/4193525345453/250199.ts
+#EXTINF:3.009,
+http://filex.tv:8080/live/Diamond@pk@321/4193525345453/250199.ts
